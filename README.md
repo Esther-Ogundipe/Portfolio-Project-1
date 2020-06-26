@@ -1,7 +1,7 @@
 # Portfolio-Project-1
 This contains my project on sentiment analysis using Rstudio IDE
 
-Please click the develop branch of this project to view my code.
+Please click the develop branch of this project to view my code
 
 # Project Summary
 Sentiment Analysis project using R programming.
